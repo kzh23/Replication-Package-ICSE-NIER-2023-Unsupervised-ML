@@ -16,3 +16,8 @@ The folder *python2java* includes the same as above just from opposing languages
 
 ## Sampling Methods
 The data we used comes directly from the data that the TransCoder model was trained upon. The files were originally from Geeks4Geeks. We took a random sample of 50 files from both the Java training data and Python training data for a total of 100 files altogether. 
+
+Here is the link to the Java Training Data: https://github.com/facebookresearch/TransCoder/tree/main/data/evaluation/geeks_for_geeks_successful_test_scripts/java
+
+Here is the link to the Python Training Data: 
+https://github.com/facebookresearch/TransCoder/tree/main/data/evaluation/geeks_for_geeks_successful_test_scripts/python
