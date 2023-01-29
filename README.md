@@ -8,5 +8,7 @@ The paper was authored by the following:
 - Baishakhi Ray: rayb@cs.columbia.edu (Columbia University in the City of New York)
 - Saikat Chakraborty: saikatc@microsoft.edu (Microsoft Research)
 ## Organization
+In the file *HOWTOREPLICATE.md*, we detail how and what to replicate in terms of our results. We used the **Facebook Research TransCoder** model in order to obtain our results. 
 
+The folder *java2python* includes every single file we 
 
