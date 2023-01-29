@@ -7,5 +7,6 @@ The paper was authored by the following:
 - Katelyn Zhou: zhoukatelyn@gmail.com (Silver Creek High School)
 - Baishakhi Ray: rayb@cs.columbia.edu (Columbia University in the City of New York)
 - Saikat Chakraborty: saikatc@microsoft.edu (Microsoft Research)
+## Organization
 
 
