@@ -9,7 +9,7 @@ Within Java to Python program translation, we find two main categories of errors
 Test cases that require a loop conversion fix contain a "complex" for loop, which we define to be a for loop that satisfies any of the following conditions:
 1) Has non-linear incrementations of variables
 2) Has multiple stopping conditions
-3) Has miltiple variables in the stopping condition
+3) Has multiple variables in the stopping condition
 
 Test cases that contain these types of iterations tend to produce incomprehensible translations. To fix this, we apply a standardized method of translating the for loop into a while loop. The method is as follows:
 1) Identify 3 components in the original for loop: initialization, change, end codition
